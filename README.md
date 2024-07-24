@@ -15,7 +15,7 @@ A data engineer with keen interest in software development :technologist:. Passi
 - **Frameworks**: React, Node.js, Django
 - **Tools**: Git, Docker, Kubernetes
 
-## Contact m
-- [Email](mailto:osogohkeith@gmail.com)
+## Contact me
+- Reach me on [Email](mailto:osogohkeith@gmail.com)
 - [LinkedIn](https://linkedin.com/in/keith-osogo-8775901b6/)
 
