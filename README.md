@@ -12,6 +12,7 @@ A data engineer with keen interest in software development :technologist:. Passi
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tokyo254&layout=compact&theme=radical" alt="Top Languages"></td>
   </tr>
 </table>
+
 ## Skills
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -30,7 +31,7 @@ A data engineer with keen interest in software development :technologist:. Passi
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -42,7 +43,8 @@ A data engineer with keen interest in software development :technologist:. Passi
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
   </a>
 </p>
+
 ## Contact me
-- Reach me on [Email](mailto:osogohkeith@gmail.com)
-- [LinkedIn](https://linkedin.com/in/keith-osogo-8775901b6/)
+- Email me on [Email](mailto:osogohkeith@gmail.com)
+- Linked in profile [LinkedIn](https://linkedin.com/in/keith-osogo-8775901b6/)
 
