@@ -1,6 +1,15 @@
 ## About Me
 A data engineer with keen interest in software development :technologist:. Passionate about developing robust data infrastructure for data-driven decisions and insights:chart_with_upwards_trend:. 
 - Fun fact, **I know there is tranquility in entropy.**
+
+## Selected Projects
+
+- [OHM Labs](https://github.com/Ohmlabs-Africa/ohmlabs) — digital services website and client collaboration platform.
+- [GNAS](https://github.com/Tokyo254/GNAS) — role-based publishing and communications platform.
+- [ASCH](https://github.com/Tokyo254/ASCH) — Africa Strategic Communication Hub landing page.
+- [Sales dashboards](https://github.com/Tokyo254/Sales-Dashboard-) — business intelligence and retail analytics projects.
+- [Weather forecasting](https://github.com/Tokyo254/Weather-Forecast) — ARIMA time-series analysis of weather data.
+
 ## Stats
 <table>
   <tr>
@@ -43,4 +52,3 @@ A data engineer with keen interest in software development :technologist:. Passi
 ## Contact me
 - Email me on [Email](mailto:osogohkeith@gmail.com)
 - Linked in profile [LinkedIn](https://linkedin.com/in/keith-osogo-8775901b6/)
-
