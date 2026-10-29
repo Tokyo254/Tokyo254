@@ -1,10 +1,9 @@
 ## About Me
 A data engineer with keen interest in software development :technologist:. Passionate about developing robust data infrastructure for data-driven decisions and insights:chart_with_upwards_trend:. 
 - Fun fact, **I know there is tranquility in entropy.**
-## :zap:Stats
+## Stats
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Tokyo254&show_icons=true&theme=radical" alt="Keith's GitHub stats"></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tokyo254&theme=radical" alt="Keith's Streak Stats"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tokyo254&layout=compact&theme=radical" alt="Top Languages"></td>
   </tr>
