@@ -1,6 +1,4 @@
 # Hi 👋
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=Tokyo254&color=blue)
-
 ## About Me
 A data engineer with keen interest in software development :technologist:. Passionate about developing robust data infrastructure for data-driven decisions and insights:chart_with_upwards_trend:. 
 - Fun fact, **I know there is tranquility in entropy.**
